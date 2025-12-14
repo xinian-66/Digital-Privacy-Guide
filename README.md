@@ -43,7 +43,7 @@
 
 _(⚠️ 版本更新后设置可能失效，请复查) 隐私重灾区：朋友圈广告、熟人推荐、通讯录上传。_
 
-- [✅️This,OK] [微信 (WeChat)](/weixin.md)
+- [✅️This,OK] [微信 (WeChat)](weixin.md)
 - [✅️This,OK] [QQ](qq.md)
 - [✅️This,OK] [小红书](xiaohongshu.md)
 - [-] [新浪微博 (Weibo)](weibo.md)
